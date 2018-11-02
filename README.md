@@ -1,2 +1,2 @@
 # practice
-workshop exerecise
+workshop exercise
